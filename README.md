@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="left">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Luigi Fiorentino </h1>
+</p>
 
-<!--
-**luigifiorentino00/luigifiorentino00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a master's student in Computer Science and Engineering at the Politecnico di Milano, particularly interested in the field of Computer Security and Databases, and an aspiring iOS Developer thanks to my experience at Apple Developer Academy. 
+<br>
 
-Here are some ideas to get you started:
+Skilled in Swift, C/C++, Java, Sql. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Code Skills and Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+</div>
+
+## 🌱 Currently Learning
+- Swift (at Apple Developer Academy) 
+- Python (self-taught 💻) 
+- Game Making with Unity (in my free time 🎮)
+
+## 💬 Get in Touch
+
+I'm always open to new collaboration opportunities and interesting discussions! 
+<br>
+You can reach out to me via:
+
+<div align="left">
+   <a href="mailto:luigi.fiorentino1@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/luigi-fiorentino-442976231/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+I look forward to connecting!
