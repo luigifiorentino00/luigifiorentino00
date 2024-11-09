@@ -31,7 +31,7 @@ You can reach out to me via:
 
 <div align="left">
    <a href="mailto:luigi.fiorentino1@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/luigi-fiorentino-442976231/">
