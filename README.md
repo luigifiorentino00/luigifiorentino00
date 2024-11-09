@@ -31,11 +31,11 @@ You can reach out to me via:
 
 <div align="left">
    <a href="mailto:luigi.fiorentino1@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/luigi-fiorentino-442976231/">
-    <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 I look forward to connecting!
